@@ -1,1 +1,1 @@
-# RoGAT: Rolw-aware Graph Attention Networks
+# RoGAT: Role-aware Graph Attention Networks
